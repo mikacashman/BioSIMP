@@ -12,7 +12,7 @@ module BioSIMP {
 		string workspace_name;
 		string fbamodel_id;
 		string media;
-		string fbaOuptut_id;
+		string fbaOutput_id;
 	}BioSIMPParams;
 
 	typedef structure{
